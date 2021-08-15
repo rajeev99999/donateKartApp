@@ -43,7 +43,7 @@ const menu = [
     {
         id: 6,
         title: 'PUMA Zod ',
-        category: 'watches',
+        category: 'Footwear',
         price: 18.99,
         img: './images/item-6.jpeg',
         desc: `Zod Runner V3 IDP Running Shoes For Men  (Black) Flat INR 50 Instant Cashback on Paytm Wallet. Min Order Value ₹500. Valid once per Paytm account`,
